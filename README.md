@@ -25,15 +25,11 @@ Most examples are based on real delivery experience in enterprise environments, 
 - Applied ML and transport-focused side projects
 
 **Core stack**
-- Python
-- SQL
-- Power BI
-- Power Apps
-- Power Automate
-- Excel
-- DAX
-- Power Query
-- Git
+- Python (typed, mypy) and SQL
+- Django, Django REST Framework, Celery, Postgres
+- GCP, BigQuery, Terraform, Docker, Kubernetes
+- pytest, GitHub Actions, Git
+- Earlier analytics work: Power BI, Power Apps, Power Automate, DAX, Power Query, Excel
 
 **What this repo demonstrates**
 - structured problem-solving
